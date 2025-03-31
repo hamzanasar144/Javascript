@@ -1,0 +1,1 @@
+var change = document.querySelector(".container").style.backgroundColor= "red",color="white";
